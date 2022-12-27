@@ -8,7 +8,7 @@ Skills: JS / HTML / CSS / PYTHON / C / C++ / C# / CHUCK / MAX MSP / FAUST / PROT
 
 - 🔭 I’m currently working on my own record label and Arab Music microtonal signal processing research
 - 🌱 I’m currently learning Spectral Audio Signal Processing 
-- 👯 I’m looking to collaborate on making music, audio signal processing projects 
+- 👯 I’m looking to collaborate on making music and audio signal processing projects 
 - 🤔 I’m looking for help with coding...always 
 - 💬 Ask me about my first Oscar 
 - 📫 How to reach me: joudiaa@stanford.edu 
