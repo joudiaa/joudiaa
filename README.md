@@ -1,4 +1,4 @@
-### Hi there 👋, Joudi A.A.
+### Hi there 👋, Joudi Abou Ayed AKA Joudi Nox
 #### Audio DSP and Acoustics
 ![Audio DSP and Acoustics](https://ccrma.stanford.edu/~joudiaa/portfolio/BANNER_CODE.jpg)
 
