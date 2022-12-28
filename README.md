@@ -1,6 +1,7 @@
+![Audio DSP and Acoustics](https://github.com/joudiaa/joudiaa/blob/main/BANNER_CODE.jpg)
+
 ### Hi there 👋, Joudi Abou Ayed AKA Joudi Nox
 #### Audio DSP and Acoustics
-![Audio DSP and Acoustics](https://github.com/joudiaa/joudiaa/blob/main/BANNER_CODE.jpg)
 
 I'm Joudi, I do audio and sound computer-based research, projects, and content. I enjoy learning programing languages such as C, C++ and Python and human languages like Korean and French. I also enjoy making music and entertaining content on various social media forms and have built a solid following foundation.
 
