@@ -1,5 +1,6 @@
 ![Audio DSP and Acoustics](https://github.com/joudiaa/joudiaa/blob/main/BANNER_CODE.jpg)
 
+## Joudi A.A.
 ### Hi there 👋, I'm Joudi Abou Ayed AKA Joudi Nox
 #### Audio DSP and Acoustics
 
