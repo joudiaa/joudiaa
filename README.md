@@ -10,6 +10,7 @@ I'm Joudi, I do audio and sound computer-based research, projects, and content. 
 * 🎶 : PROTOOLS / LOGIC PRO / ABLETON LIVE / STUDIO ONE / HARRISON MIXBUS
 * 📙 : ARABIC / FRENCH/ ENGLISH / KOREAN
 
+## About Me:
 - 🔭 I’m currently working on my own record label and Arab Music microtonal signal processing research
 - 🌱 I’m currently learning Spectral Audio Signal Processing 
 - 👯 I’m looking to collaborate on making music and audio signal processing projects 
