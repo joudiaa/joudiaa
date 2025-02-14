@@ -9,7 +9,7 @@ I'm Joudi, I do audio and sound computer-based research, projects, and content. 
 ## Skills:
 * 🖥 : PYTHON / C / C++ / C# / JS / HTML/ CSS/ CHUCK / MAX MSP
 * 🎶 : PROTOOLS / LOGIC PRO / ABLETON LIVE / STUDIO ONE / HARRISON MIXBUS
-* 📙 : ARABIC / FRENCH/ ENGLISH / KOREAN
+* 📙 : ARABIC / ENGLISH
 
 ## About Me:
 - 🔭 I’m currently working on my own record label and Arab Music microtonal signal processing research
